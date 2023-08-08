@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bellota_bold</item>
+        <item>@font/cutive</item>
+        <item>@font/finger_paint</item>
+        <item>@font/fugaz_one</item>
+        <item>@font/lalezar</item>
+        <item>@font/michroma</item>
+        <item>@font/prosto_one</item>
+        <item>@font/ranchers</item>
+    </array>
+</resources>

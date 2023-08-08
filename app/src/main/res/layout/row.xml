@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/iconLocation"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/lokasyon"
+        android:layout_gravity="center_vertical"
+        android:contentDescription="Location Icon" />
+
+    <TextView
+        android:id="@+id/textKonum"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:fontFamily="@font/lalezar"
+        android:text="Osmanbey"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textColor="#3D4CBD"
+        android:textSize="28sp" />
+
+</LinearLayout>

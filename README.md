@@ -2,6 +2,9 @@
 
 Bu proje, Kotlin programlama dili kullanılarak geliştirilmiş bir Android uygulamasını içerir. Uygulama, kullanıcının istediği konumları kaydedebilmesini ve daha sonra görüntüleyebilmesini sağlayan bir konum günlüğü işlevini yerine getirir.
 
+![Uygulama](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ6MXkwMnZwMHp2N2l5aTVlMWNranA4MG90cm1yd3RyZmU3bWcxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qw4W2BuofYkLnMqVaT/giphy.gif)
+
+
 ## Özellikler
 
 - Konum Ekleme: Kullanıcılar, istedikleri herhangi bir konumu adlandırarak kaydedebilirler.

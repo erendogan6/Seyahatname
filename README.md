@@ -15,6 +15,8 @@ Bu proje, Kotlin programlama dili kullanılarak geliştirilmiş bir Android uygu
 - Harita Görüntüsü: Kaydedilen konumlar harita üzerinde gösterilir.
 - Veri Güvenliği: Kullanıcı verileri yerel depolama kullanılarak saklanır.
 
+API KEY Gizlenmemiştir
+
 ## Teknolojiler
 - SQLite - Room
 - Google Maps API
